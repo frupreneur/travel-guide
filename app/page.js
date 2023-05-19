@@ -1,6 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Canada Travel Guide",
+  description: "Canada Travel Guide",
+};
+
 export default function Home() {
   return (
     <>
