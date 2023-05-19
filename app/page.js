@@ -20,10 +20,10 @@ export default function Home() {
             priority
           />
 
-          <h2>
+          <h3>
             Hello, what do you need help with? <br />
             Click answer below👇👇
-          </h2>
+          </h3>
           <Link href="https://travel.englishcompositions.com/2023/05/easy-ways-to-migrate-and-find-job-in.html">
             🇨🇦 CANADA GUIDE 🇨🇦
           </Link>
