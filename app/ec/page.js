@@ -25,7 +25,7 @@ export default function Home() {
             Click answer below👇👇
           </h3>
           <Link href="https://travel.englishcompositions.com/2023/05/easy-ways-to-migrate-and-find-job-in.html">
-            🇨🇦 CANADA GUIDE 🇨🇦
+            🇨🇦 GET STARTED 🇨🇦
           </Link>
           <Link href="https://travel.englishcompositions.com/2023/05/canada-visa-application-100-working.html">
             🇨🇦 CANADA VISA 🇨🇦{" "}
