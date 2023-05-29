@@ -25,7 +25,7 @@ export default function Home() {
             Click answer below👇👇
           </h3>
           <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
-            🇨🇦 CANADA GUIDE 🇨🇦
+            🇨🇦 GET STARTED 🇨🇦
           </Link>
           <Link href="https://travel.thewordmixer.com/2023/05/how-to-apply-for-canada-visa-100.html">
             🇨🇦 CANADA VISA 🇨🇦{" "}
