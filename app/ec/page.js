@@ -24,16 +24,16 @@ export default function Home() {
             Hello, what do you need help with? <br />
             Click answer below👇👇
           </h3>
-          <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/easy-ways-to-migrate-and-find-job-in.html">
             🇨🇦 CANADA GUIDE 🇨🇦
           </Link>
-          <Link href="https://travel.thewordmixer.com/2023/05/how-to-apply-for-canada-visa-100.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/canada-visa-application-100-working.html">
             🇨🇦 CANADA VISA 🇨🇦{" "}
           </Link>
-          <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/study-in-canada-scholarships-financial.html">
             🇨🇦 STUDY IN CANADA 🇨🇦
           </Link>
-          <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
             🇨🇦 JOBS IN CANADA 🇨🇦
           </Link>
         </div>
