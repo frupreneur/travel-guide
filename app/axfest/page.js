@@ -24,10 +24,18 @@ export default function Page() {
             Hello, what do you need help with? <br />
             Click answer below👇👇
           </h3>
-          <Link href="https://travel.axfest.com">🇨🇦 GET STARTED 🇨🇦</Link>
-          <Link href="https://travel.axfest.com/">🇨🇦 CANADA VISA 🇨🇦 </Link>
-          <Link href="https://travel.axfest.com/">🇨🇦 STUDY IN CANADA 🇨🇦</Link>
-          <Link href="https://travel.axfest.com/">🇨🇦 JOBS IN CANADA 🇨🇦</Link>
+          <Link href="https://travel.axfest.com/2023/04/how-to-apply-for-canada-visa-100.html">
+            🇨🇦 GET STARTED 🇨🇦
+          </Link>
+          <Link href="https://travel.axfest.com/2023/04/how-to-apply-for-canada-visa-100.html">
+            🇨🇦 CANADA VISA 🇨🇦{" "}
+          </Link>
+          <Link href="https://travel.axfest.com/2023/04/canada-government-jobs-for-immigrants.html">
+            🇨🇦 TRAVEL TO CANADA 🇨🇦
+          </Link>
+          <Link href="https://travel.axfest.com/2023/04/high-paying-jobs-in-canada-for.html">
+            🇨🇦 JOBS IN CANADA 🇨🇦
+          </Link>
         </div>
       </div>
     </>
