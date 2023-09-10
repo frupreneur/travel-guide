@@ -22,9 +22,8 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '2157568414444980');
-fbq('track', 'PageView');
-`,
+fbq('init', '987290555855605');
+fbq('track', 'PageView');`,
         }}
       />
 
@@ -43,16 +42,16 @@ fbq('track', 'PageView');
             Hello, what do you need help with? <br />
             Click answer below👇👇
           </h3>
-          <Link href="https://travel.thewordmixer.com/2023/05/how-to-apply-for-canada-visa-100.html">
+          <Link href="https://travel.englishcompositions.com/2023/07/how-to-get-job-in-toronto-comprehensive.html">
             🇨🇦 GET STARTED 🇨🇦
           </Link>
-          <Link href="https://travel.thewordmixer.com/2023/05/how-to-apply-for-canada-visa-100.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
             🇨🇦 CANADA VISA 🇨🇦{" "}
           </Link>
-          <Link href="https://travel.thewordmixer.com/2023/05/how-to-apply-for-canada-visa-100.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
             🇨🇦 STUDY IN CANADA 🇨🇦
           </Link>
-          <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
+          <Link href="https://travel.englishcompositions.com/2023/07/how-to-get-job-in-toronto-comprehensive.html">
             🇨🇦 JOBS IN CANADA 🇨🇦
           </Link>
         </div>
