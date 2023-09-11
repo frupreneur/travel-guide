@@ -42,16 +42,16 @@ fbq('track', 'PageView');`,
             Hello, what do you need help with? <br />
             Click answer below👇👇
           </h3>
-          <Link href="https://travel.englishcompositions.com/2023/05/canada-government-jobs-for-immigrants.html">
+          <Link href="https://travel.thewordmixer.com/2023/05/best-usa-jobs-for-immigrants-work-in-usa.html">
             🇨🇦 GET STARTED 🇨🇦
           </Link>
-          <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
+          <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
             🇨🇦 CANADA VISA 🇨🇦{" "}
           </Link>
-          <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
+          <Link href="https://travel.thewordmixer.com/2023/05/high-paying-jobs-in-canada-for.html">
             🇨🇦 STUDY IN CANADA 🇨🇦
           </Link>
-          <Link href="https://travel.englishcompositions.com/2023/05/canada-government-jobs-for-immigrants.html">
+          <Link href="https://travel.thewordmixer.com/2023/05/best-usa-jobs-for-immigrants-work-in-usa.html">
             🇨🇦 JOBS IN CANADA 🇨🇦
           </Link>
         </div>
