@@ -42,7 +42,7 @@ fbq('track', 'PageView');`,
             Hello, what do you need help with? <br />
             Click answer below👇👇
           </h3>
-          <Link href="https://travel.englishcompositions.com/2023/07/how-to-get-job-in-toronto-comprehensive.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/canada-government-jobs-for-immigrants.html">
             🇨🇦 GET STARTED 🇨🇦
           </Link>
           <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
@@ -51,7 +51,7 @@ fbq('track', 'PageView');`,
           <Link href="https://travel.englishcompositions.com/2023/05/high-paying-jobs-in-canada-for.html">
             🇨🇦 STUDY IN CANADA 🇨🇦
           </Link>
-          <Link href="https://travel.englishcompositions.com/2023/07/how-to-get-job-in-toronto-comprehensive.html">
+          <Link href="https://travel.englishcompositions.com/2023/05/canada-government-jobs-for-immigrants.html">
             🇨🇦 JOBS IN CANADA 🇨🇦
           </Link>
         </div>
