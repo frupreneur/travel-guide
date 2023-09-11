@@ -30,7 +30,7 @@ fbq('track', 'PageView');`,
       <div className="site-wrap">
         <div className="quizContainer">
           <Image
-            src="/21336192_web1_190629-RDA-canada-day2-1920x1280.jpg"
+            src="/2.png"
             width="300"
             height="300"
             alt="canada travel"
