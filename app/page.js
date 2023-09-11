@@ -30,7 +30,7 @@ fbq('track', 'PageView');`,
       <div className="site-wrap">
         <div className="quizContainer">
           <Image
-            src="/2.png"
+            src="/2-2.png"
             width="300"
             height="300"
             alt="canada travel"
