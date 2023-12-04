@@ -30,7 +30,7 @@ export default function Page() {
       <div className="site-wrap">
         <div className="quizContainer">
           <Image
-            src="/21336192_web1_190629-RDA-canada-day2-1920x1280.jpg"
+            src="/promo_want_to_travel_to_canada_in_2024.png"
             width="300"
             height="300"
             alt="canada travel"
@@ -38,10 +38,10 @@ export default function Page() {
             priority
           />
 
-          <h3>
+          {/* <h3>
             Hello, what do you need help with? <br />
             Click answer below👇👇
-          </h3>
+          </h3> */}
           <Link href="https://edu.englishcompositions.com/2023/06/canada-visa-application-100-working.html">
             🇨🇦 GET STARTED 🇺🇸
           </Link>
