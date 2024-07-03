@@ -3,12 +3,12 @@ import Link from "next/link";
 import Script from "next/script";
 
 export const metadata = {
-	title: "Canada Travel Guide",
-	description: "Canada Travel Guide",
+  title: "Canada Travel Guide",
+  description: "Canada Travel Guide",
 };
 
-export default function Home() {
-	return (
+export default function Page() {
+  return (
 		<>
 			<Script
 				id="fb1"
@@ -22,7 +22,7 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '652904312869176');
+fbq('init', '498536872639949');
 fbq('track', 'PageView');`,
 				}}
 			/>
@@ -38,21 +38,18 @@ fbq('track', 'PageView');`,
 						priority
 					/>
 
-					<h3>
-						Hello, what do you need help with? <br />
-						Click answer below👇👇
-					</h3>
-					<Link href="https://englishcompositions.com/legally-relocate-to-canada-and-get-a-work-permit-to-apply-for-jobs/">
-						➡️ GET STARTED 🇨🇦
+					{/* <h3>
+            Hello, what do you need help with? <br />
+            Click answer below👇👇
+          </h3> */}
+					<Link href="https://visa.drugsavant.com/construction-jobs-in-united-kingdom-apply-now/">
+						➡️ JOBS IN UK 🇺🇸
 					</Link>
-					<Link href="https://englishcompositions.com/legally-relocate-to-canada-and-get-a-work-permit-to-apply-for-jobs/">
-						➡️ CANADA VISA 🇨🇦{" "}
+					<Link href="https://visa.drugsavant.com/security-guard-jobs-in-the-united-kingdom-apply-now/">
+						➡️ JOBS IN USA 🇨🇦{" "}
 					</Link>
-					<Link href="https://englishcompositions.com/legally-relocate-to-canada-and-get-a-work-permit-to-apply-for-jobs/">
-						➡️ STUDY IN CANADA 🇨🇦
-					</Link>
-					<Link href="https://englishcompositions.com/legally-relocate-to-canada-and-get-a-work-permit-to-apply-for-jobs/">
-						➡️ JOBS IN CANADA 🇨🇦
+					<Link href="https://visa.drugsavant.com/food-preparation-workers-in-the-united-kingdom/">
+						➡️ JOBS IN CANADA 🇺🇸
 					</Link>
 				</div>
 			</div>
